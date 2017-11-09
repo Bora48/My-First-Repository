@@ -17,7 +17,7 @@ print("write an adverb!")
 advrb1 = input()
 
 print("write a verb ending in ING")
-vrbendnining1 = input()
+verbendingining = input()
 
 print("write a silly word(plural)")
 sillyword1 = input()
@@ -63,4 +63,12 @@ pnoun3 = input()
 print("When we look up into the sky on a/an" + adj1 + "summer night,we see millions of tiny spots of light.")
 
 print("Each one represents a/an" + noun1 + "which is the center of a/an" + adj2 + "solar system with dozens of" + pnoun1+ "revolving" + advrb1 + "around a distant sun.
+
+print("sometimes these suns expand and begin" + verbendingining + "their neighbors")
+
+print("Soon they will become so big, they will turn into" + sillyword1 +.")
+
+print("Eventually the subside and become" + adj3 + "giants or perhaps black" + pnoun2 + ".)
+
+print("our own planet which we call"
 
